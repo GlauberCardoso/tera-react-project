@@ -1,8 +1,8 @@
-import React from "react";
-import logo from "../../images/logo.svg";
+//import React from "react";
+//import logo from "../../images/logo.svg";
 
 export default function Home() {
-  const [users, setUsers] = React.useState([]);
+  /*const [users, setUsers] = React.useState([]);
   const [currentuser, setCurrentUser] = React.useState("");
 
   const handleUserChange = () => {
@@ -25,5 +25,5 @@ export default function Home() {
       </select>
       <button onClick={handleConfirmClick} className="button-primary">Entrar</button>
     </div>
-  );
+  );*/
 }
